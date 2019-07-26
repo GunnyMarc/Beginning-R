@@ -6,7 +6,7 @@ NOTE: *This code is based on the SWIRL repository.  The code shown here has some
 *This code is FREE.  Take it and do what you need to learn R.  GODD HUNTING!*
 
 ## Beginner
-#### Week 1 
+#### [Week 1](https://github.com/GunnyMarc/Beginning-R/tree/master/week_1)
 1.  Basic Building Block
 2.  Base Graphics
 3.  Looking at Data
