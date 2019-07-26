@@ -23,3 +23,4 @@ Coming soon!
 * [R Cheat Sheet](https://cran.r-project.org/doc/contrib/Short-refcard.pdf)
 * [Data Wrangling in R](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 * [Devtools Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/06/devtools-cheatsheet.pdf)
+* [R Study Group](https://www.ling.upenn.edu/~joseff/rstudy/index.html)
