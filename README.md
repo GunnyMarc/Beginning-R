@@ -1,9 +1,9 @@
 # Beginning-R
-### A repository of R script files based on SWIRL with some additional added comments and walk-through of the code.
+#### A repository of R script files based on SWIRL with some additional added comments and walk-through of the code.
 
 NOTE: *This code is based on the SWIRL repository.  The code shown here has some added comments and narrative for details of the lesson.*
 
-*This code is FREE.  Take it and do what you need to learn R.  GODD HUNTING!*
+*This code is FREE.  Take it, do what you need to learn R.  GOOD HUNTING!*
 
 ## Beginner
 #### [Week 1](https://github.com/GunnyMarc/Beginning-R/tree/master/week_1)
