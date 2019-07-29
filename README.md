@@ -15,6 +15,11 @@ NOTE: *This code is based on the SWIRL repository.  The code shown here has some
 6.  Subsetting_Vectors
 7.  Matrices and Data Frames
 
+#### [Week 2](https://github.com/GunnyMarc/Beginning-R/tree/master/week_2)
+1.  Lists
+2.  Functions
+(Also see the "other_examples.R" file located at the beginning of this repository)
+
 ## Intermediate
 Coming soon!
 ## Advanced
